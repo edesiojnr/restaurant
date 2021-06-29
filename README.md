@@ -1,4 +1,4 @@
-# restaurant
+# Restaurant Project
 
 ## Site Restaurant
 
